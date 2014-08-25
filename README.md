@@ -1,10 +1,9 @@
 # HTTT-MobileShop
-===============
 
 #### Details
-Source code: Resouce
-Report: Report
-Database: mobileshop.sql
+* Source code: Resouce
+* Report: Report
+* Database: mobileshop.sql
 
 #### Run
 Resource/TrangChu.php
