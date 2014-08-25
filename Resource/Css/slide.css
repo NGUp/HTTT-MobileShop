@@ -1,0 +1,46 @@
+
+*{outline:none;}
+#bigPic{
+	width:750px;
+	height:300px;
+	border:1px solid #CCC;
+	background-color:#FFF;
+	margin-bottom:5px;
+	position:relative;
+}
+#next
+{
+	position: absolute; 
+	z-index:3; 
+	left: 690px; 
+	top: 120px; 
+	opacity:0.3;
+	width:50px;
+}
+#back
+{
+	width:50px;
+	left:-18px;
+	position: absolute; 
+	z-index:3; 
+	transform:rotate(180deg);
+	-ms-transform:rotate(180deg);
+	-webkit-transform:rotate(180deg);
+	opacity: 0.3; 
+	top: 120px;	
+}
+.slider
+{
+	width:750px;
+	position:relative;
+	float:left;
+	margin-left:14px;
+	margin-right:14px;
+}
+#bigPic img{
+	width:750px;
+	height:300px;
+	position:absolute;
+	display:none;
+}
+
