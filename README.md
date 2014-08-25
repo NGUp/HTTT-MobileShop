@@ -14,4 +14,11 @@ Resource/TrangChu.php
 * tuxuong
 * HoangNgocHiep
 
+#### Technologies
+* PHP
+* CSS3
+* HTML5
+* JavaScript
+* MySQL
+
 ### Group: N.G.U
